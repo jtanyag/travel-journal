@@ -33,6 +33,7 @@ main {
 .entry {
   display: flex;
   gap: 19px;
+  margin-bottom: 36px;
   max-width: 470px;
 }
 .entry-image-container {
